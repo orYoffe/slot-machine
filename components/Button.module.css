@@ -1,0 +1,11 @@
+.button {
+  font-size: 18px;
+  padding: 16px 88px;
+  margin: 20px auto;
+  border-radius: 3px;
+  background: #4af;
+  color: #fff;
+  box-shadow: 3px 3px 3px #ccc;
+  cursor: pointer;
+  transition: transform 0.25s;
+}
