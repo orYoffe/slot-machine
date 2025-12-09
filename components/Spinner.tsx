@@ -9,6 +9,7 @@ const Spinner = (
         <Image
           key={`resultsMapping_${index}`}
           src={result}
+          alt="Slot symbol"
           width={200}
           height={200}
         />
@@ -22,6 +23,7 @@ const Spinner = (
           <Image
             key={`resultsMapping2_${index}`}
             src={result}
+            alt="Slot symbol"
             width={200}
             height={200}
           />
@@ -32,6 +34,7 @@ const Spinner = (
         <Image
           key={`resultsMapping3_${index}`}
           src={result}
+          alt="Slot symbol"
           width={200}
           height={200}
         />
